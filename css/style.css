@@ -75,7 +75,11 @@ body {
   -ms-grid-columns: 1fr;
   grid-template: 1fr/ 1fr;
   min-height: 100vh;
-  grid-template-areas: "header" "menu" "search" "catalog" "footer"; }
+  grid-template-areas: "header"
+ "menu"
+ "search"
+ "catalog"
+ "footer"; }
 
 .header {
   -ms-grid-row: 1;
@@ -404,4 +408,4 @@ img {
 
 @media only screen and (min-height: 900px) {
   .ent_reg_cont {
-    max-height: 50%; } }
+    max-height: 40%; } }
