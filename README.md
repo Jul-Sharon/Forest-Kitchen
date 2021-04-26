@@ -1,3 +1,3 @@
 # Forest-Kitchen
-Online-store
+Online-store.
 My first training project. Own design.
